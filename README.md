@@ -30,21 +30,23 @@ Then we proceeded to build a simple HMI(Human-Machine Interface) using blink (us
 
 to be able to command the motors remotly
 
-To simplify things for the users he can either move each motor manually (pressing the manual button and moving the sliders) or use the automatic positioning to pass from one position to the next one using the NEXT button
+To simplify things for the users he can either move each motor manually (pressing the manual button and moving the sliders) or use the automatic positioning to pass from one position to the next one using the NEXT button.
+
 He can also restart the sequence using the restart button 
+
 Here is the state diagram:
 
-![](Imagen4.jpg)
+![](Imagen4.png)
 
-After that we are ready to build a mecanic designe to reproduce all those movements having in consideration the dimentional constrains of the target enviroment (cant be too big)
+After that we are ready to build a mecanic design to reproduce all those movements having in consideration the dimentional constrains of the target enviroment (cant be too big)
 
 Enviroment:
 
-![]()
+![](Imagen5.png)
 
 Mecanical conception using CATIA:
 
-![]()
+![](Imagen1.jpg)
 
 
 
