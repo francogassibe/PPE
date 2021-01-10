@@ -14,13 +14,14 @@ All these 13 steps can be achived by only 3 movements:
 
 -A translation on that same axis 
 
--A rotation arround an axis contained on the front face of the target. Means its gonna rotate arround the center of his own front face 
+-A rotation arround an axis contained on the front face of the target. Means its gonna rotate arround the center of his own front face (shown in steps 4 and 5) 
 
 
 
 To do so we need to control the position of 3 motors (servomotors in this case) so we connect our card in the following way 
 
-![]()
+![](Imagen2.jpg)
+
 
 
 Then we proceeded to build a simple HMI(Human-Machine Interface) using blink(using your cellphone) that looks like this 
