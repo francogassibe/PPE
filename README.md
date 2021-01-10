@@ -48,5 +48,12 @@ Mecanical conception using CATIA:
 
 ![](Imagen1.jpg)
 
+-The motor 1 is attached to structure B and his axis passes through structure B to hold and turn the structure A witch holds the target (reproducing the 1st movement described)
+-The big gear is solid to structure B and the motor 2 (moving the small gear) is attached to structure C.The struture B is been holded by the structure C but it turns freely. Reproducing the 3rd movement.
+-Finally the motor 3 (moving the pignon) is also attached to structure C
+The pignon of motor 3 works with a rack to move the entire system reproducing the 2nd movement described.
+
+All the system has been designed for their parts not to collide under any circumstances
+
 
 
