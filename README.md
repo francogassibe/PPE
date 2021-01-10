@@ -18,7 +18,7 @@ All these 13 steps can be achived by only 3 movements:
 
 
 
-To do so we need to control the position of 3 motors (servomotors in this case) so we connect our card in the following way 
+To do so we need to control the position of 3 motors (servomotors in this case) so we connect our ESP32 card in the following way 
 
 ![](Imagen2.png)
 
