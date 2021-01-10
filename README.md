@@ -4,7 +4,7 @@ Optic measurements for deformations usually need to take pictures of the target 
 
 The objective of this project its to position a square target in 13 different positions shown in the folloing image:
 
-![]()
+![](Capture.png)
 
 
 
