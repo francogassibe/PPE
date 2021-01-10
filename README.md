@@ -24,17 +24,17 @@ To do so we need to control the position of 3 motors (servomotors in this case) 
 
 
 
-Then we proceeded to build a simple HMI(Human-Machine Interface) using blink(using your cellphone) that looks like this 
+Then we proceeded to build a simple HMI(Human-Machine Interface) using blink (using your cellphone) that looks like this 
 
-![]()
+![](Imagen3.jpg)
 
-to be able to command the motors
+to be able to command the motors remotly
 
-To simplify things for the users he can either move each motor manually or use the automatic positioning to pass from one position to the next one using the NEXT button
+To simplify things for the users he can either move each motor manually (pressing the manual button and moving the sliders) or use the automatic positioning to pass from one position to the next one using the NEXT button
 He can also restart the sequence using the restart button 
 Here is the state diagram:
 
-![]()
+![](Imagen4.jpg)
 
 After that we are ready to build a mecanic designe to reproduce all those movements having in consideration the dimentional constrains of the target enviroment (cant be too big)
 
