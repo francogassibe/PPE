@@ -9,9 +9,13 @@ The objective of this project its to position a square target in 13 different po
 
 
 All these 13 steps can be achived by only 3 movements:
+
 -A rotation arround an axis thats perpendicular to the target face and passes throug the center of that face
+
 -A translation on that same axis 
+
 -A rotation arround an axis contained on the front face of the target. Means its gonna rotate arround the center of his own front face 
+
 
 
 To do so we need to control the position of 3 motors (servomotors in this case) so we connect our card in the following way 
