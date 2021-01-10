@@ -20,7 +20,7 @@ All these 13 steps can be achived by only 3 movements:
 
 To do so we need to control the position of 3 motors (servomotors in this case) so we connect our card in the following way 
 
-![](Imagen2.jpg)
+![](Imagen2.png)
 
 
 
